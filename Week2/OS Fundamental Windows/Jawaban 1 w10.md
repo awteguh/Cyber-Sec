@@ -18,4 +18,10 @@ Pertama siapkan struktur folder yang sudah di sediakan, dan buat file teks: cust
    ![Image](https://github.com/user-attachments/assets/0f9b96f4-add3-43b5-a2ee-a5064db61025)
 7. Hapus 3 file pelanggan
    ![Image](https://github.com/user-attachments/assets/85eba64d-3dfd-44f3-ad8f-96ea86e04ca0)
-8. 
+8. Tampilkan konten file teks di jendela prompt perintah satu per satu. (Anda mungkin perlu menggunakan bantuan untuk menemukan perintah untuk melakukan ini).
+   ![Image](https://github.com/user-attachments/assets/2aee2601-4e95-4878-bf7a-a289f8d9b80d)
+9. Bersihkan layar `cls` / `clear`
+   ![Image](https://github.com/user-attachments/assets/636a5482-0268-47b0-ad99-d73bea48953c)
+10 .Keluar dari jendela POWERSHELL `exit`
+   ![Image](https://github.com/user-attachments/assets/90162033-2162-455b-9740-e40ed02aa39d)
+    
