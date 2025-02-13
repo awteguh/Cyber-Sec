@@ -1,4 +1,4 @@
-1. Windows POWERSHELL Question
+## Windows POWERSHELL Question
 In this lab, will be using the POWERSHELL to implement a files and folders structure on your home directory. Creating files and folders along with moving through them are very common operations. The POWERSHELL makes these operations easy and quick to perform as you are able to move directly to specific locations and perform specific operations.
 
 Using the Powershell Command, create the following structure on your home directory. The Square boxes are folders, while the lines represent folders contained inside each one. As can be seen in the diagram below, the structure looks like a hierarchy and this is what the use of folders provides for – a hierarchy of where data should be saved and stored.
