@@ -2,10 +2,13 @@
 
 1.Masuk ke Root Drive C:
    `cd C:\`
+   
 2. Kembali ke Direktori Profil Pengguna
   `cd %USERPROFILE%`
+
 3. Membuat Direktori dengan Nama yang Mengandung Spasi
   `mkdir "this directory has a space"`
+
 4. Masuk ke Direktori Baru Menggunakan Tab Completion
   `cd "this directory has a space"`
   ![Image](https://github.com/user-attachments/assets/37612c67-1a02-4784-95af-e9cddc728e8b)
