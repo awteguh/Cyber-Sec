@@ -83,6 +83,6 @@
 - Net use z:\\server\files
 - Dir\\servername\share
 
-## EXERICE WMIC
+## EXERCISE WMIC
 
    
