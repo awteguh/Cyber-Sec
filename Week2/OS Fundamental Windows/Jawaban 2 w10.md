@@ -14,7 +14,7 @@
   ![Image](https://github.com/user-attachments/assets/37612c67-1a02-4784-95af-e9cddc728e8b)
 
 5. Membuat Direktori Tersembunyi Bernama mystuff
-   `mkdir mystuff`
+   `mkdir mystuff`cd
    `attrib +h mystuff`
 6. Mengubah Nama Direktori this directory has a space Menjadi shortname
    `ren "this directory has a space" shortname`
@@ -30,4 +30,6 @@
 9. Melihat Koneksi Jaringan dengan netstat
    `netstat -an`
    ![Image](https://github.com/user-attachments/assets/d14ab04e-287c-43c7-8b20-d72deee6e231)
+
+10. 
    
