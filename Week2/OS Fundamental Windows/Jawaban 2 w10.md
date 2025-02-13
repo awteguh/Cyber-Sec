@@ -84,5 +84,12 @@
 - Dir\\servername\share
 
 ## EXERCISE WMIC
+- Cmd.exe
+  ![Image](https://github.com/user-attachments/assets/cdbc3363-b7aa-49f1-92b9-556d2ce09485)
 
+  ![Image](https://github.com/user-attachments/assets/5846da64-76d5-41ac-90f0-a72e6ea04a37)
+
+- bd01.exe bd02.exe bd03.exe
+  ![Image](https://github.com/user-attachments/assets/1dc4737b-13f0-42d2-a0b1-1924b0604f08)
+  
    
