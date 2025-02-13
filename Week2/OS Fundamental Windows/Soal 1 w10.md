@@ -6,6 +6,7 @@ Using the Powershell Command, create the following structure on your home direct
 Before you start, using any application you like (e.g. Notepad), create three text files: cust1.txt; cust2.txt and cust3.txt and two documents leave.txt and medical.txt. These should be created and saved at the top/root of your home directory.
 
 Now, using the POWERSHELL only, implement the following folder structure. Write down the sequence of commands that allow you to create the structure below:
+
 ![Image](https://github.com/user-attachments/assets/af80b834-ab25-48e4-a7b4-97b69c7f34a9)
 
 Now that you have created the directory structure, write the POWERSHELL commands that control it in the following ways (1 – 10).
