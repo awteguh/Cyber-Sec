@@ -61,4 +61,23 @@
 
 ## Security Police Review
 
+
+## REG.EXE Exercise
+- reg
+  ![Image](https://github.com/user-attachments/assets/11ed3e6b-65af-4e4d-9980-9b502fef9765)
+- reg query
+  ![Image](https://github.com/user-attachments/assets/bd605d5d-837c-471e-88c8-41b522deadee)
+
+## REG.EXE Exercise (2)
+- HKCU Current User
+  ![Image](https://github.com/user-attachments/assets/1899e389-f107-40b2-96b3-45585ae5bec8)
+  
+- Current User's Software Key
+  ![Image](https://github.com/user-attachments/assets/1c3759bc-2e4c-4bc0-a5d2-b938d42c810b)
+  
+- This key is commonly used by malware
+  ![Image](https://github.com/user-attachments/assets/40936498-414c-4904-9036-b0f2864b710c)
+
+## NET USE & VIEW Review
+
    
