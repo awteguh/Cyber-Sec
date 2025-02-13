@@ -46,12 +46,16 @@
 - Mencoba Membuat Pengguna dari Shell Alice
 - Menambahkan Pengguna "Bob"
   ![Image](https://github.com/user-attachments/assets/47cbaa88-2a05-4ea9-b2b0-5f3958a240be)
+
 - Membuat Grup "Developers"
   ![Image](https://github.com/user-attachments/assets/8e1495b5-7949-40f9-8591-5d3938301991)
+  
 - Menambahkan Bob dan Alice ke Grup Developers
   ![Image](https://github.com/user-attachments/assets/7710141f-cd41-4933-8a27-9f7918b26e9e)
+  
 - Menampilkan Anggota Grup Developers
   ![Image](https://github.com/user-attachments/assets/576b2668-62d8-43d8-af12-aa09be162818)
+  
 - Menghapus Grup Developers, Bob, dan Alice
   ![Image](https://github.com/user-attachments/assets/837ecaf4-b938-4352-a268-2660ef0a2110)
 
