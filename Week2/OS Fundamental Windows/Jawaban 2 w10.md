@@ -60,7 +60,8 @@
   ![Image](https://github.com/user-attachments/assets/837ecaf4-b938-4352-a268-2660ef0a2110)
 
 ## Security Police Review
-
+- User Right Assignment
+- Security Options
 
 ## REG.EXE Exercise
 - reg
@@ -79,5 +80,9 @@
   ![Image](https://github.com/user-attachments/assets/40936498-414c-4904-9036-b0f2864b710c)
 
 ## NET USE & VIEW Review
+- Net use z:\\server\files
+- Dir\\servername\share
+
+## EXERICE WMIC
 
    
