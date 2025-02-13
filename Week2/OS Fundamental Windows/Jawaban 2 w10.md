@@ -31,5 +31,30 @@
    `netstat -an`
    ![Image](https://github.com/user-attachments/assets/d14ab04e-287c-43c7-8b20-d72deee6e231)
 
-10. 
+## File Permision Review
+- Tidak
+- Tidak
+- Ya
+
+## Exercise
+- Menampilkan Semua Akun dalam Grup Administrators
+  ![Image](https://github.com/user-attachments/assets/e792c1e3-c3f5-4fde-a976-a4a5ab76ca9a)
+- Membuat Pengguna Baru "Alice"
+- Menambahkan Alice ke Grup Administrators
+- Memulai Command Prompt sebagai Alice Menggunakan RunAs
+  ![Image](https://github.com/user-attachments/assets/c7fe6768-d4b3-4228-b3bb-f3d9c650f86d)
+- Mencoba Membuat Pengguna dari Shell Alice
+- Menambahkan Pengguna "Bob"
+  ![Image](https://github.com/user-attachments/assets/47cbaa88-2a05-4ea9-b2b0-5f3958a240be)
+- Membuat Grup "Developers"
+  ![Image](https://github.com/user-attachments/assets/8e1495b5-7949-40f9-8591-5d3938301991)
+- Menambahkan Bob dan Alice ke Grup Developers
+  ![Image](https://github.com/user-attachments/assets/7710141f-cd41-4933-8a27-9f7918b26e9e)
+- Menampilkan Anggota Grup Developers
+  ![Image](https://github.com/user-attachments/assets/576b2668-62d8-43d8-af12-aa09be162818)
+- Menghapus Grup Developers, Bob, dan Alice
+  ![Image](https://github.com/user-attachments/assets/837ecaf4-b938-4352-a268-2660ef0a2110)
+
+## Security Police Review
+
    
