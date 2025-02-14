@@ -19,4 +19,4 @@ Flag merupakan nama file executable tanpa extensi .exe. ex: Ditemukan file examp
 
 5. Administrator menemukan adanya beberapa upaya login gagal terhadap akun visioadmin pada tanggal 9 Februari 2025 sekitar pukul 5 PM, tetapi mereka tidak yakin apakah ini hanya kesalahan pengguna atau bagian dari serangan brute-force.
 Tugas Anda adalah menemukan ID Event Log dari percobaan login gagal dan mengidentifikasi alamat IP asal yang melakukan upaya login tersebut.
-Format FLAG: VISIONET{EventId_IP} ex-wrong-flag: VISIONET{9999_0.0.0.0}
+Format FLAG: VISIONET{EventId_IP} ex-wrong-flag: VISIONET{9999_0.0.0.0} VISIONET{4625_192.168.60.1}
